@@ -29,6 +29,8 @@ import com.entor.service.BaseService;
 @RequestMapping("/base")
 public class BaseController<T> {
 
+	
+	
 	/*@Resource
 	
 	private BaseService baseservice;
